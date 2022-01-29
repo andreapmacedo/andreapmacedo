@@ -1,4 +1,4 @@
-## Olá, Eu sou o André Macedo 
+## hello world, bem-vindo ao meu repositório 
 
 - 🔭 Estudante de Desenvolvimento Web | Trybe | Turma 20
 
