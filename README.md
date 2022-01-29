@@ -1,4 +1,4 @@
-## hello world, bem-vindo ao meu repositório 
+## hello world - bem-vindo ao meu repositório 
 
 - 🔭 Estudante de Desenvolvimento Web | Trybe | Turma 20
 
