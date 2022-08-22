@@ -1,6 +1,6 @@
 ## hello world - bem-vindo ao meu repositório 
 
-- 🔭 Estudante de Desenvolvimento Web | Trybe | Turma 20
+- Analista e Desenvolvedor Full-Stack
 
 <div align="center">
   <a href="https://github.com/andreapmacedo">
