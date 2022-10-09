@@ -27,7 +27,7 @@
 <!-- </div> -->
   
 <!--   https://github.com/Ileriayo/markdown-badges -->
-  
+<div align="center">  
 ![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://https://github.com/andreapmacedo)
 ![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://https://github.com/andreapmacedo)
 ![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://https://github.com/andreapmacedo)
@@ -53,3 +53,5 @@
   
 <!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
 <!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
+</div>
+  
