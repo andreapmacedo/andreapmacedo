@@ -23,4 +23,4 @@ https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColo
 [![Github Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/arthurspk)]
 (https://www.facebook.com/seixasqlc/)
 
-[![Github Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&link=https://https://github.com/andreapmacedo)]
+![Github Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white&link=https://https://github.com/andreapmacedo)
