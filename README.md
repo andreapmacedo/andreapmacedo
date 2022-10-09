@@ -34,5 +34,5 @@
   ![Github Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white&link=https://https://github.com/andreapmacedo)
-  ![Github Badge](  &link=https://https://github.com/andreapmacedo)
-  ![Github Badge](  &link=https://https://github.com/andreapmacedo)
+<!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
+<!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
