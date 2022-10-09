@@ -26,6 +26,8 @@
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 <!-- </div> -->
   
+<!--   https://github.com/Ileriayo/markdown-badges -->
+  
 ![Github Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://https://github.com/andreapmacedo)
 ![Github Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://https://github.com/andreapmacedo)
 ![Github Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://https://github.com/andreapmacedo)
@@ -45,6 +47,8 @@
   ![Github Badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
   
   
 <!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
