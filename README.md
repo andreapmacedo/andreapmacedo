@@ -39,6 +39,7 @@
   ![Github Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://https://github.com/andreapmacedo)
+  ![Github Badge](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Github Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&link=https://https://github.com/andreapmacedo)
   ![Github Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://https://github.com/andreapmacedo)
