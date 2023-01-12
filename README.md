@@ -1,5 +1,5 @@
 ### Bem-vindo ao meu repositório 
-
+![capa1](https://user-images.githubusercontent.com/18727007/212190289-57afa4ce-9cdd-4753-bac2-d37449c80ea6.svg)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreapmacedo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreapmacedo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreapmacedo&theme=nord_dark) |
 | :-: | :-: | :-: |
