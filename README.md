@@ -3,7 +3,8 @@
 <div align="center">
 <!-- ![capa1](https://user-images.githubusercontent.com/18727007/212190289-57afa4ce-9cdd-4753-bac2-d37449c80ea6.svg) -->
 
-![capa-git](https://user-images.githubusercontent.com/18727007/212190905-9c600964-4893-4877-9018-36d888b1f7b9.svg)
+![capa-git](https://user-images.githubusercontent.com/18727007/212192065-7401417f-3261-4c1e-af7b-be6f0c2faa81.svg)
+
 </div>
   
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreapmacedo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreapmacedo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreapmacedo&theme=nord_dark) |
