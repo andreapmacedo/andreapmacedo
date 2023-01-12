@@ -1,6 +1,11 @@
 ### Bem-vindo ao meu repositório 
-![capa1](https://user-images.githubusercontent.com/18727007/212190289-57afa4ce-9cdd-4753-bac2-d37449c80ea6.svg)
 
+<div align="center">
+<!-- ![capa1](https://user-images.githubusercontent.com/18727007/212190289-57afa4ce-9cdd-4753-bac2-d37449c80ea6.svg) -->
+
+![capa-git](https://user-images.githubusercontent.com/18727007/212190905-9c600964-4893-4877-9018-36d888b1f7b9.svg)
+</div>
+  
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreapmacedo&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreapmacedo&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreapmacedo&theme=nord_dark) |
 | :-: | :-: | :-: |
 
