@@ -9,7 +9,7 @@
 
 <div>
   <p>
-    Em 2019 iniciei um processo de transição de carreira da área comercial para tecnológica; inicialmente dedicado a aprender e desenvolver aplicações voltadas para automação de operações no mercado de opções binárias (uso pessoal), utilizando o paradigma estruturado e linguagem C. Desde então aproveito este conhecimento para oferecer desenvolvimento de robôs traders para B3/Forex como freelancer. Em 2021 iniciei uma nova transição, porém, dentro da área, agora com foco em desenvolvimento web. Desde então estou focado em aprender as ‘skills’ (soft e hard) mais demandadas pelo mercado, tendo como escola a Trybe, onde tive a oportunidade desenvolver ao longo do curso aproximadamente 40 projetos da área. Sou apaixonado por tecnologia, formado em Análise e Desenvolvimento de Sistemas e já trabalhei em alguns projetos pessoais com tecnologias tais como Java e Python. 
+    Em 2019 iniciei um processo de transição de carreira da área comercial para tecnológica; inicialmente dedicado a aprender e desenvolver aplicações voltadas para automação de operações no mercado de opções binárias (uso pessoal), utilizando o paradigma estruturado e linguagem C. Desde então aproveito este conhecimento para oferecer desenvolvimento de robôs traders para B3/Forex como freelancer. Em 2021 iniciei uma nova transição, porém, dentro da área, agora com foco em desenvolvimento web. Desde então estou focado em aprender as ‘skills’ (soft e hard) mais demandadas pelo mercado, tendo como escola a Trybe, onde tive a oportunidade desenvolver ao longo do curso aproximadamente 40 projetos. Apaixonado por tecnologia, formado em Análise e Desenvolvimento de Sistemas; também já trabalhei em alguns projetos pessoais com tecnologias tais como Java e Python. 
   <p>
 
 </div>
