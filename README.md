@@ -1,7 +1,9 @@
 ### Bem-vindo ao meu repositório 
 
 <div align="center">
-![capa-git](https://user-images.githubusercontent.com/18727007/212192065-7401417f-3261-4c1e-af7b-be6f0c2faa81.svg)
+
+  ![capa-git](https://user-images.githubusercontent.com/18727007/212192065-7401417f-3261-4c1e-af7b-be6f0c2faa81.svg)
+
 </div>
 
 <div>
