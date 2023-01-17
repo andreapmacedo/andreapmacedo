@@ -1,10 +1,7 @@
 ### Bem-vindo ao meu repositório 
 
 <div align="center">
-<!-- ![capa1](https://user-images.githubusercontent.com/18727007/212190289-57afa4ce-9cdd-4753-bac2-d37449c80ea6.svg) -->
-
 ![capa-git](https://user-images.githubusercontent.com/18727007/212192065-7401417f-3261-4c1e-af7b-be6f0c2faa81.svg)
-
 </div>
 
 <div>
@@ -72,3 +69,8 @@
 <!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
 
   
+
+<p align="center">
+  <img alingn="center" src="https://profile-counter.glitch.me/andreapmacedo/count.svg" />
+
+</p>
