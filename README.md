@@ -8,7 +8,7 @@
 
 <div>
   <p>
-Em 2019 iniciei um processo de transição de carreira da área comercial para tecnológica; inicialmente dedicado a desenvolver aplicações voltadas para automação de operações binárias, utilizando o paradigma estruturado e linguagem C/C++. Desde então venho trabalhando com o desenvolvimento de sistemas para operar nos mercados de derivativos (B3/Forex). Em 2021 iniciei uma nova jornada dentro da programação, agora com foco em desenvolvimento de aplicações web (SPA/SSR/SSG). Desde então estou focado em desenvolver as ‘skills’ (soft e hard) mais demandadas pelo mercado, tendo como escola a Trybe, onde tive a oportunidade desenvolver ao longo do curso aproximadamente 40 projetos da área. Sou apaixonado por tecnologia, formado em Análise e Desenvolvimento de Sistemas e já trabalhei em alguns projetos com tecnologias tais como Java e Python. 
+Em 2019 iniciei uma transição de carreira da área comercial para tecnologia. Iniciei minha jornada desenvolvendo aplicações para automação de operações binárias utilizando a linguagem C/C++ e um paradigma estruturado. Mais tarde, me especializei em criação de sistemas para o mercado de derivativos. Em 2021, decidi me concentrar em desenvolvimento de aplicações web, incluindo Single Page Applications, Server-Side Rendered e Server-Side Generated. Desde então, tenho me aplicado para aprimorar minhas habilidades tanto técnicas quanto soft, tendo me dedicado ao longo de 2022 ao curso técnico da Trybe, onde tive a oportunidade de construir aproximadamente 40 projetos de front-end, back-end e full-stack. Sou apaixonado por tecnologia e tenho formação em Análise e Desenvolvimento de Sistemas, já tendo trabalhado com tecnologias como Java e Python em projetos passados.
   <p>
 
 </div>
