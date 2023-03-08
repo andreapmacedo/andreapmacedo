@@ -8,7 +8,7 @@
 
 <div>
   <p>
-Em 2019 iniciei uma transição de carreira da área comercial para tecnologia. Iniciei minha jornada desenvolvendo aplicações para automação de operações binárias utilizando a linguagem C/C++ e um paradigma estruturado. Mais tarde, me especializei em criação de sistemas para o mercado de derivativos. Em 2021, decidi me concentrar em desenvolvimento de aplicações web, incluindo Single Page Applications, Server-Side Rendered e Server-Side Generated. Desde então, tenho me aplicado para aprimorar minhas habilidades tanto técnicas quanto soft, tendo me dedicado ao longo de 2022 ao curso técnico da Trybe, onde tive a oportunidade de construir aproximadamente 40 projetos de front-end, back-end e full-stack. Sou apaixonado por tecnologia e tenho formação em Análise e Desenvolvimento de Sistemas, já tendo trabalhado com tecnologias como Java e Python em projetos passados.
+Sou analista e desenvolvedor de sistemas, desenvolvendo há alguns anos aplicações para operações no mercado de derivativos. Ao final de 2021, migrei meu foco para construções de softwares para o web e mobile, em aplicações full-stack de SPAs, SSRs, CSRs e SSGs. Sou apaixonado por tecnologia e tenho e já trabalhei com as principais tecnologias para desenvolvimento da atualidade.
   <p>
 
 </div>
