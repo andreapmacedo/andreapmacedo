@@ -8,7 +8,7 @@
 
 <div>
   <p>
-Sou analista e desenvolvedor de sistemas, desenvolvendo há alguns anos aplicações para operações no mercado de derivativos. Ao final de 2021, migrei meu foco para construções de softwares para o web e mobile, em aplicações full-stack de SPAs, SSRs, CSRs e SSGs. Sou apaixonado por tecnologia e tenho e já trabalhei com as principais tecnologias para desenvolvimento da atualidade.
+Sou analista e desenvolvedor de sistemas, trabalhando desde 2018 na construçaão de aplicações para o mercado de derivativos. Ao final de 2021, passei a focar no desenvolvimento de aplicações web full-stack e mobile, tendo experiência com SPAs, SSRs, CSRs e SSGs. Sou apaixonado por tecnologia e tenho e já trabalhei com as principais tecnologias para desenvolvimento da atualidade.
   <p>
 
 </div>
