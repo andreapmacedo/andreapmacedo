@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  Analista e desenvolvedor de sistemas, atuando desde 2018 na construção de aplicações para o mercado de derivativos. Ultimamente focado no desenvolvimento de aplicações mobile e web com construção de páginas SPAs, SSRs, CSRs e SSGs. Sou apaixonado por tecnologia e por desenvolvimento de softwares.
+  Analista e desenvolvedor de sistemas, atuando desde 2018 na construção de aplicações para o mercado de derivativos. Ultimamente focado no desenvolvimento de aplicações mobile e web (SPAs, SSRs e SSGs). Sou apaixonado por tecnologia e por desenvolvimento de softwares.
   <p>
 
 </div>
