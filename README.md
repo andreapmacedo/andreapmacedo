@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  Analista de desenvolvimento na Cogny. Desde 2018 trabalhando com desenvolvimento de aplicações para automatização de operações financeiras no mercado de derivativos. Apaixonado por tecnologia e inovação.
+  Analista de desenvolvimento na Cogny. Desde 2018 trabalhando com desenvolvimento de aplicações para automatização de operações financeiras no mercado de derivativos. Entusiasta de tecnologia e apaixonado por inovação.
   <p>
 
 </div>
