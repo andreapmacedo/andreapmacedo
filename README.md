@@ -71,8 +71,8 @@
 <!--   ![Github Badge](  &link=https://https://github.com/andreapmacedo) -->
 
   
-
+<!-- 
 <p align="center">
   <img alingn="center" src="https://profile-counter.glitch.me/andreapmacedo/count.svg" />
 
-</p>
+</p> -->
