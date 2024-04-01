@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  Analista de desenvolvimento na Cogny. Entusiasta de tecnologia e apaixonado por inovação atualmente atuando como design solutions e desenvolvedor react native.
+  Analista de desenvolvimento na Cogny. Entusiasta de tecnologia e apaixonado por inovação.
   <p>
 
 </div>
