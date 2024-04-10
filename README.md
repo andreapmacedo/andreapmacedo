@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  Analista de desenvolvimento na Cogny. Entusiasta de tecnologia e apaixonado por inovação.
+  Analista de desenvolvimento, entusiasta de tecnologia e apaixonado por inovação.
   <p>
 
 </div>
