@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  Analista de desenvolvimento, entusiasta de tecnologia e apaixonado por inovação.
+  Analista de desenvolvimento, entusiasta e inovação.
   <p>
 
 </div>
