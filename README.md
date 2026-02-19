@@ -8,7 +8,7 @@
 
 <div>
   <p>
-  Desenvolvedor Full Stack, tendo atuado no desenvolvimento, manutenção e suporte de sistemas de fidelidade de larga escala de empresas como JCA, Syngenta e Marfrig. Sólida experiência em metodologias ágeis, arquitetura de microsserviços e integração com plataformas enterprise (Salesforce). Perfil colaborativo.<img width="442" height="74" alt="image" src="https://github.com/user-attachments/assets/e1547093-c772-4eb3-bc46-afd6d08e6c5d" />
+  Desenvolvedor Full Stack, tendo atuado no desenvolvimento, manutenção e suporte de sistemas de fidelidade de larga escala de empresas como JCA, Syngenta e Marfrig. Sólida experiência em metodologias ágeis, arquiteturas modernas e integração com plataformas enterprise (Salesforce). Perfil colaborativo.<img width="442" height="74" alt="image" src="https://github.com/user-attachments/assets/e1547093-c772-4eb3-bc46-afd6d08e6c5d" />
 
   <p>
 
